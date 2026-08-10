@@ -29,25 +29,25 @@ Add screenshots of your application screens here
    ![Profile Screen](Images/PMUI.png)
 
 ### *Exam Screen 1 with Timer* ### 
-   ![Exam Screen](path/to/exam.png)
+   ![Exam Screen](Images/QUESTION1UI.png)
    
 ### *Exam Screen 2 with Timer* ###
-  ![Exam Screen](path/to/exam.png)
+  ![Exam Screen](Images/QUESTION2UI.png)
 
 ### *Exam Screen 3 with Timer* ###
-  ![Exam Screen](path/to/exam.png)
+  ![Exam Screen](Images/QUESTION3UI.png)
 
 ### *Exam Screen 4 with Timer* ###
-  ![Exam Screen](path/to/exam.png)
+  ![Exam Screen](Images/QUESTION4UI.png)
 
 ### *Exam Screen 5 with Timer* ###
-  ![Exam Screen](path/to/exam.png)
+  ![Exam Screen](Images/Question5UI.png)
   
 ### *Result Screen* ###
-![Result Screen](path/to/result.png)
+![Result Screen](Images/ResultsUI.png)
 
 ### *Time up screen* ###
-  ![Exam Screen](path/to/exam.png)
+  ![Exam Screen](Images/TIMEUPUI.png)
   
 
 ### *YouTube Demo Link*
