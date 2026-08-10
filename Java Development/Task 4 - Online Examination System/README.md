@@ -20,7 +20,7 @@
 ### *GUI Screenshots*
 Add screenshots of your application screens here
 1. *Full name + Track + Task*
-   ![TRACK CARD](Java Development/Task 4 - Online Examination System/Images/Screenshot 2026-08-10 005659.png)
+   ![TRACK CARD](Images/Screenshot 2026-08-10 005659.png)
 1. *Login Screen*  
    ![Login Screen](Java Development/Task 4 - Online Examination System/Images/Screenshot 2026-08-10 005659.png)
 
