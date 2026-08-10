@@ -1,8 +1,8 @@
 ### *TASK 1 · Online Reservation System* ###
 
-*Objective:* Build a GUI-based train/transport reservation system where users can log in, book tickets, and cancel bookings using a PNR number.
+*Objective:* Build a GUI-based train reservation system where users can log in, book tickets, and cancel bookings using a PNR number.
 
-*Tech Stack:* Java (Swing or JavaFX for GUI), JDBC, MySQL or SQLite
+*Tech Stack:* Java (Swing for GUI), JDBC.
 
 ---
 
@@ -18,7 +18,15 @@
 ---
 
 ### *GUI Screenshots*
-Add screenshots of your application screens here
+Below are the screenshots of my application interfaces screens here
 
 ### *Login Form* ###
+
+### *Reservation Form* ###
+
+### *Confirmation Screen* ###
+
+### *Cancellation Form* ###
+
+
 
