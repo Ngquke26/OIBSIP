@@ -16,7 +16,7 @@
 - *Logout button* on the result screen that returns to the login screen
 
 ### *GUI Screenshots*
-Add screenshots of your application screens here
+Below are screenshots of my application interfaces:
 ###  *Title Card* ###
    ![TRACK CARD](Images/TITLECARDOE.png)
    
@@ -50,6 +50,6 @@ Add screenshots of your application screens here
 
 ### *YouTube Demo Link* ###
 
-Below is the walkthrough of my projecthere
+Below is the walkthrough of my project on You Tube
 
-[Watch Demo on YouTube]([https://youtu.be/lze3XWJf7rM](https://youtu.be/iSlx4JrcJP4?si=ruK1JBfTl8HUuX6V))
+[Watch Demo on YouTube](https://youtu.be/iSlx4JrcJP4?si=ruK1JBfTl8HUuX6V)
