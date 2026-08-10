@@ -19,21 +19,36 @@
 
 ### *GUI Screenshots*
 Add screenshots of your application screens here
-1. *Full name + Track + Task*
+###  *Title Card* ###
    ![TRACK CARD](Images/LOGINUI.png)
-1. *Login Screen*  
-   ![Login Screen](Java Development/Task 4 - Online Examination System/Images/Screenshot 2026-08-10 005659.png)
+   
+### *Login Screen* ### 
+   ![Login Screen](Images/LOGINUI.png)
 
-2. *Profile Update Screen*  
-   ![Profile Screen](path/to/profile.png)
+### *Profile Update Screen* ### 
+   ![Profile Screen](Images/PMUI.png)
 
-3. *Exam Screen with Timer*  
+### *Exam Screen 1 with Timer* ### 
    ![Exam Screen](path/to/exam.png)
+   
+### *Exam Screen 2 with Timer* ###
+  ![Exam Screen](path/to/exam.png)
 
-4. *Result Screen*  
-   ![Result Screen](path/to/result.png)
+### *Exam Screen 3 with Timer* ###
+  ![Exam Screen](path/to/exam.png)
 
----
+### *Exam Screen 4 with Timer* ###
+  ![Exam Screen](path/to/exam.png)
+
+### *Exam Screen 5 with Timer* ###
+  ![Exam Screen](path/to/exam.png)
+  
+### *Result Screen* ###
+![Result Screen](path/to/result.png)
+
+### *Time up screen* ###
+  ![Exam Screen](path/to/exam.png)
+  
 
 ### *YouTube Demo Link*
 Add your project walkthrough video here
