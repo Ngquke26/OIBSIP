@@ -32,4 +32,4 @@ Below are the screenshots of my application interfaces screens here
 ![Cancellation](Images/CANCELUI.png)
 
 ### *You Tube Demo* ###
-![Watch project demo](https://www.youtube.com/watch?si=NgmCn4_DoNnJOseg&v=lze3XWJf7rM&feature=youtu.be)
+[Watch Demo on YouTube](https://youtu.be/lze3XWJf7rM)
