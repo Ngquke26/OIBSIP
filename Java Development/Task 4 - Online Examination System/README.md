@@ -20,7 +20,7 @@
 ### *GUI Screenshots*
 Add screenshots of your application screens here
 ###  *Title Card* ###
-   ![TRACK CARD](Images/LOGINUI.png)
+   ![TRACK CARD](Images/TITLECARDOE.png)
    
 ### *Login Screen* ### 
    ![Login Screen](Images/LOGINUI.png)
