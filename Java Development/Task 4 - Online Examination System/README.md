@@ -50,7 +50,8 @@ Add screenshots of your application screens here
   ![Exam Screen](Images/TIMEUPUI.png)
   
 
-### *YouTube Demo Link*
+### *YouTube Demo Link* ###
+
 Add your project walkthrough video here
 
-[Watch Demo on YouTube](https://www.youtube.com/your-video-link-here
+[Watch Demo on YouTube](https://youtu.be/lze3XWJf7rM)
