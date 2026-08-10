@@ -24,10 +24,10 @@ Below are the screenshots of my application interfaces screens here
 ![Login](Images/LOGINUI.png)
 
 ### *Reservation Form* ###
-![Reservation]()
+![Reservation](Images/RESERVFORMUI.png)
 ### *Confirmation Screen* ###
-![Confirmation]()
+![Confirmation](Images/CONFIRMUI.png)
 ### *Cancellation Form* ###
-![Cancellation]()
+![Cancellation](Images/CANCELUI.png)
 
 
