@@ -2,6 +2,8 @@
 package za.ac.cput.onlinereservationsystem.gui;
 
 import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;
 import javax.swing.JButton;
@@ -18,7 +20,10 @@ import za.ac.cput.onlinereservationsystem.dao.TrainDAO;
  * @author PC
  */
 public class LoginForm extends JFrame{
-    private JFrame mainFrame;
+  
+    
+    private JPanel panelTitle;
+    private JLabel lblTitle;
     
     private JPanel fieldPanel;
     
@@ -35,7 +40,14 @@ public class LoginForm extends JFrame{
     public LoginForm(){
         super("Login");
         
-        mainFrame = new JFrame();
+       
+        
+        panelTitle = new JPanel();
+        panelTitle.setPreferredSize(new Dimension(this.getWidth(), 30));
+        panelTitle.setBackground(new Color(80,0,161));
+        
+        lblTitle = new JLabel("LOGIN");
+        lblTitle.setForeground(Color.WHITE);
         
         fieldPanel = new JPanel();
         
@@ -71,12 +83,12 @@ public class LoginForm extends JFrame{
             }
             
         });
-          mainFrame.setLayout(new BorderLayout());
-       
+         setLayout(new BorderLayout());
+        panelTitle.setLayout(new FlowLayout());
         fieldPanel.setLayout(new GridLayout(2,2));
         buttonPanel.setLayout(new FlowLayout()); 
 
-       
+       panelTitle.add(lblTitle);
         fieldPanel.add(lblUsername);
         fieldPanel.add(txtUsername);
         fieldPanel.add(lblPassword);
@@ -84,19 +96,17 @@ public class LoginForm extends JFrame{
         
         buttonPanel.add(btnLogin);
         
-        mainFrame.add(fieldPanel,BorderLayout.NORTH);
-        mainFrame.add( buttonPanel,BorderLayout.SOUTH);
+       add(panelTitle, BorderLayout.NORTH);
+       add(fieldPanel,BorderLayout.CENTER);
+       add( buttonPanel,BorderLayout.SOUTH);
+       
+       setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setLocationRelativeTo(null);
+        setSize(1000,1000);
+        setVisible(true);
+        pack();
         
-        mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        mainFrame.setLocationRelativeTo(null);
-        mainFrame.setSize(1000,1000);
-        mainFrame.setVisible(true);
-        mainFrame.pack();
     }
-        public static void main(String []args){
-            new LoginForm();
-           
-        }
        
     }
 

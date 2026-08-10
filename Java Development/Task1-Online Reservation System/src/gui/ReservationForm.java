@@ -27,8 +27,9 @@ import za.ac.cput.onlinereservationsystem.domain.TrainDomain;
 public class ReservationForm extends JFrame{
     private JFrame secondFrame;
     
-    private JPanel formPanel;
     
+    
+    private JPanel formPanel;
     private JLabel lblPassengerName;
     private JTextField txtPassengerName;
     
@@ -94,7 +95,7 @@ public class ReservationForm extends JFrame{
                     txtTrainName.setText(train.getTrainName());
                 }else{
                     
-                }txtTrainName.setText("Not found");
+                }txtTrainName.setText("MetroRail");
                // txtTrainName.setText(trainName != null ? trainName : "Not found");
             
             
