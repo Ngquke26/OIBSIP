@@ -22,7 +22,7 @@
 ### *YouTube Video Demo*
 Add your project walkthrough/demo video here
 
-[Watch Demo on YouTube](https://www.youtube.com/your-video-link-here)
+[Watch Demo on YouTube](https://youtu.be/YJX2WcY0_C4?si=83qQ8HRY3GLFcWwt)
 
 
 *Core Java concepts needed:* java.util.Random
