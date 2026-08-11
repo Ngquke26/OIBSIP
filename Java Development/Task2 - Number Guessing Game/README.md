@@ -22,11 +22,11 @@
 ### *GAME IMAGES* ###
 *Below are the screenshots of the game, runnning in the console, demostrating all the difficulty levels from easy, medium and hard and the attempts the user made in all level :* 
 
-### * Screen Demo 1* ###
-![Image1](ConsoleImages/Console1.png)
+### *Screen Demo 1* ###
+![Image1](Images/Console1.png)
 
 ### *Screen Demo 2* ###
-![Image2](ConsoleImages/Console2.png)
+![Image2](Images/Console2.png)
 
 ### *YouTube Video Demo*
 *Below is the project walkthrough/demo video click on the link below*
