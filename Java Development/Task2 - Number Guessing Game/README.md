@@ -18,16 +18,18 @@
 -    Easy: 1–50, 10 attempts 
 -    Medium: 1–100, 7 attempts 
 -    Hard: 1–200, 5 attempts
-## *Below are the screenshots of the game, runnning in the console, demostrating all the difficulty levels from easy, medium and hard and the attempts the user made in all level :*##
+
+### *GAME IMAGES* ###
+*Below are the screenshots of the game, runnning in the console, demostrating all the difficulty levels from easy, medium and hard and the attempts the user made in all level :* 
 
 ### * Screen Demo 1* ###
-![Console 1]()
+![Console 1](Console1.png)
 
 ### *Screen Demo 2* ###
-![Console 2]()
+![Console 2](Console2.png)
 
 ### *YouTube Video Demo*
-Below is the project walkthrough/demo video click on the link below
+*Below is the project walkthrough/demo video click on the link below*
 
 [Watch Demo on YouTube](https://youtu.be/U4kRTqluex4))
 
