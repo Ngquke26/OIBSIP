@@ -52,7 +52,6 @@ Below are screenshots of my application interfaces:
 
 Below is the walkthrough of my project on YouTube where the user ran of time before all questions were answered.
 [Watch Demo on YouTube](https://youtu.be/ofnTL5-4hZI)
-[Watch Demo on YouTube](https://youtu.be/iSlx4JrcJP4?si=ruK1JBfTl8HUuX6V)
-[Watch Demo on YouTube](https://youtu.be/ofnTL5-4hZI)
+
 ## *Exam questions were answered on time within the specified 30 seconds.* ##
 [Watch Part 2 of the Demo](https://youtu.be/E4rMF5WdSEM)
